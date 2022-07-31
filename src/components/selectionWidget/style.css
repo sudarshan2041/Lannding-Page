@@ -1,0 +1,23 @@
+.btn-group {
+  padding: 10px;
+}
+
+.btn-active {
+  background-color: #335eea;
+  color: #fff;
+}
+
+button {
+  display: inline-block;
+  text-decoration: none;
+  border: 1px solid gray;
+  padding: 8px 30px;
+  margin-right: 10px;
+  text-align: center;
+  border-radius: 5px;
+  line-height: 1.6;
+  font-size: 17px;
+  cursor: pointer;
+  border: none;
+  width: max-content;
+}
